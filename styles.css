@@ -22,7 +22,7 @@
 }
 
 #next-letter {
-  font-size: 38px;  
+  font-size: 38px; 
 }
 
 .keys-row {
@@ -44,4 +44,18 @@
 .highlight {
     background-color: #0a4dac;
     color: white;
+}
+
+.letter {
+    float: left;
+    height: 50px;
+}
+
+.removeBox {
+    float: left;
+}
+
+.highlight-box {
+    background-color: yellow;
+    float: left;
 }
